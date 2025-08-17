@@ -1,0 +1,2 @@
+# Print the largest number of completions
+print(max(course_completions))
