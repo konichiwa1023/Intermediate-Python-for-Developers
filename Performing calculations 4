@@ -1,0 +1,2 @@
+# Print the average number of completions, rounded to one decimal places
+print(round(sum(course_completions) / len(course_completions), 1))
