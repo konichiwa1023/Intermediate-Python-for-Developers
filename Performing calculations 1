@@ -1,0 +1,2 @@
+# Print the total number of course completions
+print(sum(course_completions))
