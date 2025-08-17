@@ -1,0 +1,5 @@
+most_popular_course = "Introduction to dbt"
+
+# How many characters are in most_popular_course?
+title_length = len(most_popular_course)
+print(title_length)
